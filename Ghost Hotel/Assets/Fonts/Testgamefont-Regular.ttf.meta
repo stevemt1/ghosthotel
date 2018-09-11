@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 48f3fc425a40540e99bdab517b48e809
+timeCreated: 1513132133
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Testgamefont
+  fontNames:
+  - Testgamefont
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

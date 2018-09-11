@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 1c6ef395e89c44a27b953dfb2ccede13
+timeCreated: 1520846584
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - DialogueManager: {instanceID: 0}
+  - russet: {instanceID: 0}
+  - milan: {instanceID: 0}
+  - SoundEffectManager: {instanceID: 0}
+  - ringSound: {fileID: 8300000, guid: cf8ccd2ea8d8aa743a9340a276afddae, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

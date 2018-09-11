@@ -1,0 +1,26 @@
+fileFormatVersion: 2
+guid: c1243e49e979f4497948e6cc08028a84
+timeCreated: 1518656203
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - player: {instanceID: 0}
+  - oldsprite: {instanceID: 0}
+  - newsprite: {instanceID: 0}
+  - nonglow: {instanceID: 0}
+  - nonglow1: {instanceID: 0}
+  - glow: {instanceID: 0}
+  - glow1: {instanceID: 0}
+  - text: {instanceID: 0}
+  - itemwanted: {instanceID: 0}
+  - DialogueManager: {instanceID: 0}
+  - onClickSound: {instanceID: 0}
+  - default1: {fileID: 8300000, guid: 2312ca9822bb53a4490a1869ecfd5638, type: 3}
+  - default2: {fileID: 8300000, guid: da6f6668a55ec4948ad599569bf1aa95, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
